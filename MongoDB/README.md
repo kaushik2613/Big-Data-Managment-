@@ -47,8 +47,4 @@ Queries:
 
 
 8. List the Fname, Lname, Position and No of Goals scored by the Captain of a team who has more than 2 Yellow cards or 1 Red card.
-Deliverables
-. Sufficient documentation that provides information on the design and implementation of the program. The updated psuedocode and a detailed description of each
-data structure used.
-. An output file should be turned in that shows your queries and the query results.
-. You should also turn in the source code for your program with sufficient internal documentation (comments) for the GTA to understand and execute your program.
+
